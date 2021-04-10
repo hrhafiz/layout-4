@@ -55,27 +55,27 @@
     width: 25%;
     float: left;
     background-color: silver;
-    margin-right: 4px;
+    
 }
 .section_2{
     height: 120px;
     width: 25%;
     float: left;
-    background-color: silver;
-    margin-right: 4px;
+    background-color: aqua;
+    
 }
 .section_3{
     height: 120px;
     width: 25%;
     float: left;
-    background-color: silver;
-    margin-right: 5px;
+    background-color: yellow;
+    
 }
 .section_4{
     height: 120px;
     width: 24%;
     float: left;
-    background-color: silver;
+    background-color:black
    
 
 }
